@@ -1,2 +1,3 @@
 # my-first-git
-Hello, GitHub ^^. This file was modified locally
+
+This line was modified manually during conflicts resolution
