@@ -1,2 +1,2 @@
 # my-first-git
-Hello, GitHub ^^
+Hello, GitHub ^^. This file was modified locally
